@@ -1,0 +1,9 @@
+# Built program and packages (rebuilt with make)
+pharmacy
+build/
+dist/
+# Local data created when the program runs
+data/*.txt
+
+# macOS
+.DS_Store
